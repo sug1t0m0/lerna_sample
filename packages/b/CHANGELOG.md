@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/sug1t0m0/lerna_sample/compare/b@0.3.0...b@0.4.0) (2023-09-02)
+
+
+### Features
+
+* **b:** add log ([abf897a](https://github.com/sug1t0m0/lerna_sample/commit/abf897ae55815ca1598f6e697c0b069134c4e357))
+
+
+
+
+
 # 0.3.0 (2023-09-02)
 
 
